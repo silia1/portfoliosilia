@@ -8,15 +8,15 @@ import { cn } from "@/lib/utils"
 
 const projects = [
   {
-    title: "Internship Management Platform",
-    description: "Spring Boot, React.js, PostgreSQL,Python",
+    title: "Advanced Internship Management Platform",
+    description: "Spring Boot, React.js, PostgreSQL, Python",
     image: "/Mirai2.jpg",
     github: "https://github.com/silia1/MIRAI.git",
-    demo: "/Mirai.mp4",
+    demo: "/A.mp4",
   },
   {
     title: "EMOVISION – Real-Time Emotion Detection with Computer Vision",
-    description: "Python, OpenCV, TensorFlow, Keras, NumPy, CNN, Streamlit, Flask",
+    description: "Python, OpenCV, TensorFlow, NumPy, Pandas, CNN, Matplotlib, Streamlit, Flask",
     image: "/9.png",
     github: "https://github.com/silia1/EMOVISION-MLOPS-project-.git",
   },
@@ -85,7 +85,7 @@ const miniProjects = [
     github: "https://github.com/silia1/une-Application-Web-en-JSP-Servlet.git",
   },
   {
-    title: "Authentification using spring security - email validation",
+    title: "Security : spring security with email validation",
     description: "Spring Boot, Spring Security",
     image: "/22.jpg",
     github: "https://github.com/silia1/une-Application-Web-en-JSP-Servlet.git",
