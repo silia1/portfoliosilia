@@ -12,7 +12,7 @@ const projects = [
     description: "Spring Boot, React.js, PostgreSQL, Python",
     image: "/Mirai2.jpg",
     github: "https://github.com/silia1/MIRAI.git",
-    demo: "/A.mp4",
+    demo: "https://vimeo.com/1084556075/d23297ad08?share=copy",
   },
   {
     title: "EMOVISION – Real-Time Emotion Detection with Computer Vision",
